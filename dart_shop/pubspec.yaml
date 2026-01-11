@@ -1,6 +1,0 @@
-name: dart_shop
-description: A pure Dart project implementing core business logic for a simple e-commerce application.
-version: 1.0.0
-
-environment:
-  sdk: '>=2.17.0 <4.0.0'
